@@ -1,119 +1,107 @@
 # Terms of Service
 
-**Last Updated:** September 16, 2026
+**Last Updated:** October 3, 2026
 
-Welcome to Unloop (“we,” “our,” or “us”). These Terms of Service (“Terms”) govern your download, access, and use of the Unloop mobile application available on the Apple App Store, alongside our related software and online services (collectively, the “Services”).
+Welcome to DeskTools (“we,” “our,” or “us”). These Terms of Service (“Terms”) govern your download, access, and use of the DeskTools macOS desktop application distributed via the Apple Mac App Store, alongside any related documentation and support services (collectively, the “Application”).
 
-> **What this means:** By downloading or using Unloop, you are entering into a legally binding agreement with us. Please read these terms carefully.
+> **What this means:** By downloading, installing, or using DeskTools, you enter into a legally binding agreement with us. Please review these terms carefully.
 
 ---
 
 ### 1. Acceptance and Eligibility
-By downloading, accessing, or using Unloop, you confirm that:
-- You are at least 18 years of age (or the age of legal majority in your jurisdiction); or
-- If you are between the ages of 13 and 17, you are accessing the Services solely with the active consent and supervision of a parent or legal guardian who agrees to be bound by these Terms; or
-- If you are a parent or legal guardian enabling parental supervision or setting device limits for a minor child, you assume full legal and financial responsibility for their use of the Services.
-- You are not prohibited from using the Services under applicable local or international laws.
+By purchasing, downloading, or using DeskTools, you confirm that:
+- You are at least 18 years of age (or the legal age of majority in your jurisdiction), or you are accessing the Application with the active consent and supervision of a parent or legal guardian who agrees to be bound by these Terms.
+- You have the legal capacity to enter into this agreement.
+- You are not prohibited from accessing or using the Application under applicable local, national, or international laws.
 
-> **What this means:** You must be an adult or have parental consent to use Unloop. Parents managing shields or focus routines for children are responsible for the account and settings.
-
----
-
-### 2. Description of Services & iOS Framework Dependencies
-Unloop provides digital focus tools, automated schedules, location-based blocking (geofencing), and screen time management for iOS devices.
-
-Unloop integrates directly with native Apple system-level frameworks, including Apple’s Screen Time API (`FamilyControls` and `ManagedSettings`). You understand and agree that:
-- **Operating System Dependency:** Unloop’s blocking shields, schedules, and permission enforcement depend entirely on Apple Inc.’s iOS operating system, entitlements, and policies.
-- **OS Updates & Feature Modifications:** Future iOS updates, security patches, or changes in Apple developer policies may alter, interrupt, or disable specific functionalities outside our control.
-- **On-Device Architecture:** In accordance with Apple’s Screen Time framework, web and app restrictions are processed locally on your device; Unloop does not inspect, collect, or store your private web browsing history or personal app usage data.
-
-> **What this means:** Unloop runs on Apple’s native Screen Time tools. Your private data stays safely on your device. If Apple updates iOS and changes how these tools work, features may need adjustments.
+> **What this means:** You must be an adult or have parent/guardian approval to purchase and use DeskTools.
 
 ---
 
-### 3. Third-Party NFC Tags & Hardware Disclaimer
-Unloop includes optional physical triggers, such as “NFC Tap-to-Lock” and designated physical “Master Keys” for unlocking focus sessions.
+### 2. Description of Application & Native macOS Frameworks
+DeskTools provides an integrated, menu bar-only productivity suite for macOS, featuring floating desktop tags (DeskTags), quick-access drag-and-drop file shelves, window screenshot and video recording utilities, and display sleep prevention controls.
 
-- **No First-Party Hardware:** Unloop is a software-only application. We do not manufacture, distribute, or sell physical NFC tags, tokens, cards, or stickers.
-- **Generic & Standard NFC Tag Use:** Unloop is built to interact with standard, generic third-party NFC tags (such as standard NTAG-compliant stickers, discs, cards, or compatible NFC-enabled figures).
-- **No Compatibility Warranty:** Because third-party NFC tags vary significantly in manufacturing quality, chip type, frequency tuning, antenna surface area, and casing, we do not warrant, represent, or guarantee that all generic or third-party NFC tags will be compatible with, detected by, or function reliably with Unloop.
-- **Hardware Limitations:** Scan range and reliability depend heavily on your specific iPhone model, antenna placement, and case thickness. You are solely responsible for sourcing, testing, and maintaining your own physical NFC tags.
+DeskTools executes 100% locally and integrates natively with core Apple system frameworks, including `ScreenCaptureKit`, `IOKit` power assertions, and App Sandbox security-scoped bookmarks. You acknowledge and agree that:
+- **Operating System Dependency:** Application features depend on macOS system architectures, entitlements, and permissions granted by you (such as Screen Recording permissions).
+- **macOS Updates:** Future macOS releases, security patches, or modifications to Apple platform policies may impact, alter, or require updates to specific utilities outside our direct control.
+- **Local Architecture:** DeskTools operates entirely within the Apple App Sandbox. We do not maintain remote servers, host cloud databases, or inspect your personal files, window captures, or screen recordings.
 
-> **What this means:** You bring your own standard NFC tags or stickers. Because there are countless brands and chip types available, we cannot promise every single tag or accessory will scan properly with your iPhone.
-
----
-
-### 4. Automated Schedules and Location Zones (Geofencing)
-Unloop offers automated focus routines triggered by time schedules or physical locations (e.g., libraries, offices, or study zones).
-- **Location Services:** Geofenced boundaries rely on iOS CoreLocation services, GPS, cellular signals, and Wi‑Fi networks. Accuracy may vary based on environmental factors, low-power modes, or device signal reception.
-- **No Strict Liability for Missed Triggers:** While Unloop initiates shielding routines based on background triggers, we are not responsible for any productivity disruptions, missed routine triggers, or unintended app blocks resulting from delayed background execution or operating system throttles.
-
-> **What this means:** Location-based blocking relies on your iPhone’s GPS and network signals. Weak signals or battery-saving modes can sometimes cause slight delays when entering or exiting a focus zone.
+> **What this means:** DeskTools runs entirely on your Mac using native Apple technologies. If Apple alters macOS system frameworks in future versions, we may release updates to adapt.
 
 ---
 
-### 5. In-App Purchases, Subscriptions, and Billing
-Any paid tiers, lifetime access options, or auto-renewing subscriptions offered through Unloop are processed through Apple In-App Purchases using your Apple ID:
-- **Auto-Renewal:** Subscriptions automatically renew at the end of each billing cycle unless canceled at least 24 hours prior to the renewal date.
-- **Managing Subscriptions:** You can adjust or cancel your subscription at any time within your iOS device settings (**Settings > Apple ID > Subscriptions**).
-- **Refund Policy:** All transactions and refunds are governed strictly by Apple Media Services Terms and Conditions. We do not handle your billing data and cannot process refunds directly.
+### 3. Purchases, Licensing, and No Subscriptions
+DeskTools is distributed via the Mac App Store as a paid upfront application:
+- **One-Time Purchase:** Your purchase grants you a personal, non-exclusive, non-transferable license to use DeskTools under the terms of Apple’s standard Mac App Store licensing rules. There are no recurring monthly fees, no mandatory subscriptions, and no gated feature tiers.
+- **Payment Processing:** All payment processing, billing, currency conversions, and applicable sales taxes are managed exclusively by Apple Inc. through your Apple Account.
+- **Refund Policy:** Refund requests are handled directly and exclusively by Apple under Apple Media Services Terms and Conditions. We do not possess access to your financial information and cannot issue direct refunds.
 
-> **What this means:** Purchases and subscriptions are managed securely by Apple. To cancel or request a refund, use your iPhone’s Apple ID settings menu.
+> **What this means:** You pay once to own the app—no recurring subscriptions or hidden paywalls. Apple securely processes all payments and refund requests.
 
 ---
 
-### 6. Acceptable Use & App Integrity
+### 4. Permitted Use & Screen Recording Conduct
+When utilizing the Screen Capture and Window Recording features of DeskTools, you are solely responsible for ensuring lawful and respectful use:
+- **Consent & Compliance:** You agree to comply with all applicable privacy, wiretapping, copyright, and recording consent laws in your jurisdiction before recording video, audio, or private application windows containing proprietary or personal data.
+- **Local Output Management:** Captured images and video recordings are encoded and stored directly to your selected local folder (e.g., your Movies or Desktop directory). You maintain full ownership and legal responsibility for all files created using the Application.
+
+> **What this means:** Make sure you have the necessary rights or permission before recording other people's windows, private content, or video calls.
+
+---
+
+### 5. Acceptable Use Restrictions
 You agree not to:
-- Decompile, reverse engineer, decrypt, or attempt to derive the source code of the Unloop application.
-- Emulate, spoof, or inject malicious payloads into NFC scans or Screen Time API triggers to exploit or disable the application improperly.
-- Commercially resell, redistribute, or sublicense Unloop.
-- Use Unloop for any unlawful, deceptive, or abusive activity.
+- Decompile, reverse engineer, disassemble, decrypt, or attempt to derive the source code of DeskTools, except to the extent permitted by applicable mandatory law.
+- Modify, adapt, translate, rent, lease, loan, resell, or distribute the Application to any third party.
+- Bypass, tamper with, or circumvent any Apple App Sandbox restrictions, security mechanisms, or entitlements embedded in the Application.
+- Use the Application for any unlawful, infringing, or defamatory activity.
 
-> **What this means:** Please use Unloop fairly and as intended. Don’t attempt to reverse engineer the code, break the security features, or redistribute our software.
-
----
-
-### 7. Emergency Communications & Critical Safety Disclaimer
-**UNLOOP IS NOT A LIFE-SAFETY APPLICATION.**
-
-Unloop does not, and will never, block emergency calls (such as 911 or your local emergency dispatchers). You agree never to configure Unloop’s app shields, focus modes, or physical Master Key routines in a way that impedes your immediate access to life-preserving healthcare devices, medical management apps, or urgent communication channels during an emergency.
-
-> **What this means:** Unloop never blocks 911 or emergency services. Never lock yourself out of vital medical or critical emergency tools.
+> **What this means:** Use DeskTools honestly and as intended. Do not copy, reverse engineer, or redistribute our application software.
 
 ---
 
-### 8. Warranty Disclaimer & Limitation of Liability
-TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW:
-- UNLOOP AND ITS SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY.
-- WE EXPRESSLY DISCLAIM ALL WARRANTIES REGARDING ACCURACY, RELIABILITY, FITNESS FOR A PARTICULAR PURPOSE, OPERATIONAL UPTIME, OR THIRD-PARTY NFC TAG COMPATIBILITY.
-- UNDER NO CIRCUMSTANCES SHALL UNLOOP, ITS OWNERS, DIRECTORS, OR DEVELOPERS BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING LOSS OF TIME, MISSED COMMUNICATIONS, OR HARM ARISING FROM YOUR USE OF THE SERVICES.
+### 6. Display Sleep Utility Disclaimer
+The display sleep prevention tool in DeskTools issues standard operating system power assertions (`IOPMAssertionCreateWithName`) to prevent your Mac monitor or system from idling to sleep.
+- You acknowledge that running persistent sleep-prevention assertions on battery power will consume battery charge faster.
+- You agree that DeskTools is not liable for device battery drain, unattended system operations, screen image retention, or scheduled sleep disruptions resulting from user-initiated sleep-prevention timers.
 
-> **What this means:** We build Unloop to be as stable and effective as possible, but we provide it without warranties, and our legal liability is limited to the extent permitted by law.
+> **What this means:** Preventing your screen from sleeping will consume more battery on MacBooks. Keep your power requirements in mind when running long timers.
 
 ---
 
-### 9. Dispute Resolution & Binding Arbitration
+### 7. Warranty Disclaimer & Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:
+- DESKTOOLS IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY.
+- WE DISCLAIM ALL WARRANTIES, INCLUDING MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, SYSTEM COMPATIBILITY, AND NON-INFRINGEMENT.
+- UNDER NO CIRCUMSTANCES SHALL DESKTOOLS, ITS DEVELOPERS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF DATA, FILE CORRUPTION, SYSTEM DISRUPTIONS, OR WORK PRODUCT LOSS ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APPLICATION.
+
+> **What this means:** We engineer DeskTools to be lightweight, stable, and reliable, but it is provided without warranties, and our legal liability is limited to the fullest extent permitted by law.
+
+---
+
+### 8. Dispute Resolution & Binding Arbitration
 *(Applies to users located in the United States)*
-- **Informal Review:** Before filing a formal claim, you agree to contact us at [Email](mailto:rays-mouse01@icloud.com) to pursue a prompt, good-faith informal resolution.
-- **Arbitration:** Any unresolved dispute arising out of these Terms or the use of Unloop shall be settled through confidential, individual binding arbitration administered by the American Arbitration Association (AAA), rather than in court.
-- **Class Action Waiver:** All claims must be brought in an individual capacity, and not as a plaintiff or class member in any purported class, consolidated, or representative proceeding.
+- **Informal Resolution:** Before commencing formal legal proceedings, you agree to contact us at [rays-mouse01@icloud.com](mailto:rays-mouse01@icloud.com) to attempt a good-faith informal resolution.
+- **Arbitration:** Any unresolved dispute, controversy, or claim arising out of or relating to these Terms or the Application shall be settled by binding individual arbitration administered by the American Arbitration Association (AAA) in accordance with its Consumer Arbitration Rules.
+- **Class Action Waiver:** You and DeskTools agree that any proceedings to resolve disputes will be conducted solely on an individual basis and not as a plaintiff or class member in any class, consolidated, or representative action.
 
-> **What this means:** If an issue arises that we cannot resolve together, we agree to settle it through private, individual arbitration rather than court lawsuits or class actions.
-
----
-
-### 10. Apple App Store Legal Terms
-Because you acquired Unloop from the Apple App Store, you acknowledge that:
-- These Terms are concluded solely between you and Unloop, not Apple Inc.
-- Apple has no obligation to furnish maintenance or support services for Unloop.
-- In the event of any failure of the app to conform to any applicable warranty, you may notify Apple for a refund of the purchase price; Apple holds no further warranty obligation under applicable law.
-- Apple and its subsidiaries are third-party beneficiaries of these Terms and have the right to enforce them against you.
+> **What this means:** If a dispute cannot be resolved directly between us, we agree to resolve it through individual, binding arbitration rather than court litigation or class actions.
 
 ---
 
-### 11. Contact Us
-For questions, support, or legal inquiries concerning these Terms of Service, contact:
+### 9. Apple App Store Legal Terms
+Because you downloaded or purchased DeskTools from the Apple Mac App Store, you acknowledge that:
+- These Terms are concluded solely between you and DeskTools, not with Apple Inc. DeskTools is solely responsible for the Application and its content.
+- Apple has no obligation whatsoever to furnish any maintenance or support services with respect to the Application.
+- In the event of any failure of the Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price to you. To the maximum extent permitted by law, Apple has no other warranty obligation whatsoever.
+- Apple, and Apple’s subsidiaries, are third-party beneficiaries of these Terms, and upon your acceptance, Apple will have the right to enforce these Terms against you as a third-party beneficiary.
 
-* **App:** Unloop
-* **Email:** [Email](mailto:rays-mouse01@icloud.com)
-* **Developer/Entity:** Jose Duran
+---
+
+### 10. Contact Us
+For questions, support inquiries, or legal communications regarding these Terms of Service, contact:
+
+* **App:** DeskTools
+* **Email:** [rays-mouse01@icloud.com](mailto:rays-mouse01@icloud.com)
+* **Developer:** Jose Duran
+* **Location:** Mercer Island, WA, USA
