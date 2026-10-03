@@ -1,37 +1,23 @@
----
-layout: default
-title: Unloop
----
+## DeskTools
 
-# Escape the endless loop.
+**DeskTools — Everyday Desktop Utilities Right in Your Menu Bar**
 
-Unloop is a premium iOS digital wellbeing and focus companion that helps you break free from algorithmic dopamine loops, stop mindless scrolling, and reclaim your time and attention.
+Tired of cluttering your Mac’s Dock with half a dozen single-purpose utility apps, or paying endless monthly subscriptions for basic features? 
 
-> **More life, less screen.**
+**DeskTools** brings together a curated collection of essential everyday tools into one fast, lightweight menu bar app. Designed to feel like a natural part of macOS, DeskTools stays quietly out of your way until you need it—just one click away.
 
-Willpower alone is not always enough against apps designed to keep you scrolling. Unloop introduces intentional digital and physical friction so you can focus on what matters—at work, while studying, during your morning routine, or when spending time with the people around you.
+### Key Features
 
-## Features
+* **Floating Desktop Tags**: Create clean, translucent floating labels anywhere on your screen. Organize projects and desktop spaces with customizable colors.
+* **Drag-and-Drop Quick Shelf**: Drop files, folders, applications, or website links directly onto any tag for instant one-click access. Reorder items with ease and rename them on the fly.
+* **Screen Edge Snapping**: Pin your tags flush to screen corners or edges (top-left, top-right, bottom-center, etc.) to keep your workspace tidy without covering your active windows.
+* **Effortless Window Screenshots**: Click any window to capture a crisp screenshot instantly, saved right to your preferred destination folder.
+* **Interactive Window Recording**: Record any window with an intuitive click-to-select highlighter, visual click ripple effects, and a floating recording timer HUD.
+* **Keep Mac Awake (Prevent Display Sleep)**: Keep your screen and system awake during presentations, video rendering, or long downloads with convenient presets (15m, 30m, 1h, 2h) or your own custom timers.
+* **Customizable Menu Bar Modes**: Choose between a single consolidated menu bar icon to keep things minimal, or dedicated individual icons for instant access to Tags, Capture, and Sleep tools.
 
-- **Instant Focus Modes:** Block distracting apps and websites with a single tap.
-- **Smart Automated Schedules:** Set recurring focus windows for work, study, routines, and bedtime.
-- **Location Zones:** Automatically activate focus at meaningful places.
-- **NFC Tap-to-Lock:** Start or end a focus session with an NFC tag.
-- **Physical Master Key:** Keep an emergency unlock method physically out of reach.
-- **Parent Controls:** Help protect children’s bedtime and study time.
-- **Live Activity & Insights:** Track active sessions and time reclaimed.
-
-## Privacy first
-
-Unloop is built around on-device privacy and Apple’s native Screen Time APIs, including `FamilyControls` and `ManagedSettings`.
-
-- No browsing history tracking
-- No remote servers required for your personal data
-- No personal data collection
-- No data leaving your device for Unloop’s use
-
-## App Store
-
-Unloop is designed for iPhone and iPad. App Store availability will be linked here when published.
-
-**Escape the endless loop. Reclaim your time.**
+### Why You’ll Love DeskTools
+* **Pay Once, Keep Forever**: No recurring monthly fees, no subscriptions, and no feature paywalls.
+* **No Dock Clutter**: Lives entirely in your menu bar.
+* **Privacy by Design**: Works 100% locally on your Mac with no tracking and no account needed.
+* **Continuous Updates**: Even more handy utilities are actively in development to join your DeskTools collection.
