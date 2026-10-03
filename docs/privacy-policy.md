@@ -71,5 +71,5 @@ We may update this Privacy Policy from time to time to reflect product enhanceme
 If you have any questions or feedback regarding this Privacy Policy or our privacy practices, please contact us at:
 
 Jose Duran
-📧 [Email](rays-mouse01@icloud.com)
-🇺🇸 San Jose, CA, USA
+📧 [Email](mailto:rays-mouse01@icloud.com)
+🇺🇸 Mercer Island, WA, USA
