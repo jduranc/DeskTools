@@ -1,102 +1,75 @@
-### 📜 Privacy Policy
-
 # Privacy Policy
 
-**Last Updated:** September 16, 2026
+**Last Updated:** October 3, 2026
 
-At **Unloop** (“we,” “our,” or “us”), we believe that your digital wellbeing tools should protect your personal privacy just as fiercely as they protect your focus.
+At **DeskTools** (“we,” “our,” or “us”), we believe desktop productivity tools should respect user privacy and operate with complete transparency[span_0](start_span)[span_0](end_span). 
 
-This Privacy Policy explains how Unloop handles data when you download, install, and use our iOS mobile application and related services (collectively, the “Services”).
+This Privacy Policy explains how DeskTools handles information when you purchase, download, install, and use our macOS desktop application (the “Application”) distributed via the Apple Mac App Store[span_1](start_span)[span_1](end_span).
 
 ---
 
 ### Core Privacy Principles
 
-- **No Data Selling:** We do not sell, rent, monetize, or trade your personal information to third parties or data brokers. Ever.
-- **Zero Ads & Zero Tracking:** Unloop contains no advertising frameworks, ad networks, or cross-app tracking identifiers (like IDFA).
-- **Zero Access to Browsing or App Usage:** We do not—and technically cannot—view, collect, or store your browsing history, message contents, screen activities, or the specific apps you choose to shield.
-- **100% On-Device Enforcement:** App shielding and Screen Time controls execute locally on your iPhone using Apple’s privacy-preserving system frameworks.
+- **100% Local On-Device Execution:** All features—including floating desktop tags, drag-and-drop file shelves, screen recording, and sleep prevention timers—operate exclusively on your local Mac[span_2](start_span)[span_2](end_span). No content ever leaves your machine[span_3](start_span)[span_3](end_span).
+- **Zero Tracking & Zero Third-Party Telemetry:** DeskTools contains no tracking SDKs, no behavioral telemetry, no advertising frameworks, and no background analytics services[span_4](start_span)[span_4](end_span).
+- **No Data Monetization:** We do not collect, monetize, sell, trade, or share personal data or usage patterns with third parties or data brokers[span_5](start_span)[span_5](end_span).
+- **One-Time Upfront Purchase:** DeskTools is a paid upfront utility with no subscriptions, in-app purchases, or hidden access tiers[span_6](start_span)[span_6](end_span). We do not collect or store your billing or credit card information[span_7](start_span)[span_7](end_span).
 
 ---
 
 ### 1. Information We Do NOT Collect
 
-Because Unloop is built on Apple’s native Screen Time frameworks (`FamilyControls` and `ManagedSettings`), your usage data never leaves your device:
+DeskTools is engineered from the ground up for strict compliance with Apple’s App Sandbox architecture[span_8](start_span)[span_8](end_span). We do not access, process, or store[span_9](start_span)[span_9](end_span):
 
-- **No App Usage or Browsing Data:** When you select apps, categories, or websites to block, Apple handles these selections securely via opaque system tokens. Unloop’s code and servers cannot inspect your web history or see what you do within blocked apps.
-- **No NFC Tag Tracking:** Generic third-party NFC tags you tap to initiate or end focus sessions are processed locally by your iPhone. We do not register, track, or record NFC hardware serial numbers or location tags on external servers.
-- **No Exact Geolocation Tracking:** When you configure Location Zones (geofencing) for libraries, offices, or study spots, location monitoring is evaluated locally on-device via Apple’s CoreLocation framework. Your GPS coordinates, movements, and physical locations are never uploaded or tracked by us.
-- **No Financial or Payment Data:** Any subscription or lifetime purchase is processed directly by Apple through In-App Purchases. We never receive or store your credit card number, bank details, or billing addresses.
-
----
-
-### 2. Information We Collect (Performance & Diagnostics Only)
-
-The only data we collect is minimal, aggregated, and non-identifiable telemetry collected via **Firebase Analytics and Crashlytics** (provided by Google LLC) strictly to diagnose technical faults, measure overall application stability, and optimize app performance:
-
-- **Crash Diagnostics & Error Logs:** Technical information related to crashes, memory panics, operating system errors, and app state at the time of a failure.
-- **Device & System Metadata:** Generic, non-personally identifiable information such as device model (e.g., iPhone 15 Pro), iOS version (e.g., iOS 18), app version, language setting, and general session duration.
-- **Aggregated App Performance:** Anonymous event metrics (such as whether an onboarding step was completed or if a focus session was initiated) to understand feature reliability and identify bugs.
-
-This technical telemetry is used exclusively for engineering diagnostics, maintaining app stability, and fixing software bugs.
+- **No Screen Recordings or Screenshots:** Screen captures and window recordings captured via Apple's native `ScreenCaptureKit` framework are encoded directly on your device and saved exclusively to the local directory you designate (e.g., `~/Movies` or `~/Desktop`)[span_10](start_span)[span_10](end_span). We do not have remote access to, nor do we inspect, your recordings or images[span_11](start_span)[span_11](end_span).
+- **No File, Document, or Link Inspection:** Items dropped onto floating tag shelves (such as files, apps, folders, or URLs) are referenced locally using native macOS security-scoped bookmarks and file system URLs[span_12](start_span)[span_12](end_span). DeskTools does not read the contents of your attached documents or track your browsing activity[span_13](start_span)[span_13](end_span).
+- **No Personal Identifiers:** We do not require accounts, logins, emails, or personal identities to use any feature of the Application[span_14](start_span)[span_14](end_span).
+- **No Financial Data:** Payments are handled exclusively by Apple Inc. through the Mac App Store[span_15](start_span)[span_15](end_span). We do not receive, process, or retain credit card details, billing addresses, or bank accounts[span_16](start_span)[span_16](end_span).
 
 ---
 
-### 3. How We Use Technical Data
+### 2. System Permissions & Local Processing
 
-Any diagnostic data collected through Firebase is used solely to:
-- Detect, investigate, and prevent technical issues and application crashes.
-- Monitor overall app performance, launch times, and API responsiveness.
-- Improve UX workflows and identify features that require performance optimizations.
+DeskTools relies on standard, sandboxed macOS system APIs to perform its core utilities[span_17](start_span)[span_17](end_span):
 
-We do not use this information to profile individual users, serve targeted content, or link crash logs to your real-world identity.
-
----
-
-### 4. Third-Party Service Providers
-
-We intentionally minimize third-party software dependencies. The only external services involved in the operation of Unloop are:
-
-- **Apple Inc. (App Store & In-App Purchases):** Manages licensing, digital downloads, app distribution, and subscription payments under Apple’s standard privacy policies.
-- **Firebase / Google LLC (Analytics & Crashlytics):** Provides technical telemetry, crash reporting, and aggregated performance diagnostics. Data sent to Firebase is governed by Google’s Privacy and Security standards.
+- **Screen Recording Permission:** Required to capture windows and record screen activity using Apple’s official `ScreenCaptureKit`[span_18](start_span)[span_18](end_span). macOS will prompt you to explicitly grant this permission under *System Settings > Privacy & Security > Screen Recording*[span_19](start_span)[span_19](end_span). Recordings are processed purely in local memory and saved directly to your local storage[span_20](start_span)[span_20](end_span).
+- **File System Access:** Access to save destinations (such as your chosen output folder) is secured via standard user-selected dialogs (`NSSavePanel`) and stored locally using Apple’s Security-Scoped Bookmarks[span_21](start_span)[span_21](end_span). DeskTools cannot access files or directories outside the folders you explicitly select[span_22](start_span)[span_22](end_span).
+- **Display & Power Assertions:** The screen awake utility uses native macOS `IOKit` power assertions (`IOPMAssertionCreateWithName`) to temporarily prevent your monitor from sleeping[span_23](start_span)[span_23](end_span). This process modifies local system power sleep state only and involves no data collection[span_24](start_span)[span_24](end_span).
 
 ---
 
-### 5. Parental Controls & Children’s Privacy
+### 3. Data Storage & Retention
 
-Unloop includes parental control features designed to help parents and guardians enforce healthy digital habits, restrict mature content, or block unauthorized installations on family devices.
+All user preferences—such as tag titles, positions, color selections, shelf items, and sleep timer presets—are stored entirely locally in your Mac’s sandboxed container directory and local `UserDefaults`[span_25](start_span)[span_25](end_span). 
 
-- Unloop does not knowingly collect personally identifiable information from children under the age of 13 (or applicable local age threshold).
-- All restrictions configured under parental control modes operate locally on the managed device via Apple’s `FamilyControls` framework.
-- If you believe a child has provided us with personal information via support correspondence or feedback, please contact us immediately, and we will delete such information promptly.
+DeskTools does not maintain remote servers or databases[span_26](start_span)[span_26](end_span). If you remove the Application and delete its container data (`~/Library/Containers/com.duran.macos.desktags`), all stored configuration data is permanently removed from your machine[span_27](start_span)[span_27](end_span).
 
 ---
 
-### 6. Data Retention and Security
+### 4. Third-Party Services
 
-- **Local Storage:** Your focus schedules, custom blocking lists, and NFC pairing preferences are stored locally in your iPhone’s secure sandboxed storage and Keychain. Deleting the application removes this local data.
-- **Diagnostic Telemetry:** Crash reports and aggregated telemetry held in Firebase are retained only for standard diagnostic cycles and automatically expire according to Firebase’s retention schedules.
+DeskTools does not integrate third-party analytics, crash-reporting software (such as Firebase), or external tracking dependencies[span_28](start_span)[span_28](end_span):
 
----
-
-### 7. Your Rights and Choices
-
-- **Telemetry Opt-Out:** You can control analytical tracking or crash reporting through your device’s native iOS privacy settings (such as disabling “Share iPhone & Watch Analytics” with developers under Settings > Privacy & Security > Analytics & Improvements).
-- **Location Permissions:** You can revoke or modify Location Zone permissions at any time via Settings > Privacy & Security > Location Services > Unloop.
-- **Screen Time Permissions:** You can grant, modify, or revoke Screen Time access at any time via iOS Settings.
+- **Apple Inc. (Mac App Store):** The Application is distributed through the Mac App Store[span_29](start_span)[span_29](end_span). Apple may collect diagnostic and performance reports if you have opted in to share analytics with application developers under macOS *System Settings > Privacy & Security > Analytics & Improvements*[span_30](start_span)[span_30](end_span). Any such data provided to us by Apple is anonymized and aggregated[span_31](start_span)[span_31](end_span).
 
 ---
 
-### 8. Changes to This Privacy Policy
+### 5. Children's Privacy
 
-We may update this Privacy Policy from time to time to reflect product updates or technical changes. Any revisions will be reflected with an updated “Last Updated” date at the top of this document. We encourage you to review this policy periodically.
+DeskTools is a general-purpose desktop utility and does not knowingly collect or solicit personal information from anyone, including children under the age of 13[span_32](start_span)[span_32](end_span).
 
 ---
 
-### 9. Contact Us
+### 6. Changes to This Privacy Policy
 
-If you have questions, feedback, or concerns regarding this Privacy Policy or Unloop’s privacy practices, please contact us at:
+We may update this Privacy Policy from time to time to reflect product enhancements or changes to applicable legal or platform guidelines[span_33](start_span)[span_33](end_span). Any changes will be posted with an updated “Last Updated” date at the top of this policy[span_34](start_span)[span_34](end_span).
 
-Luis Duran
-📧 luisdurancota@gmail.com
-🇺🇸 Mercer Island, WA, USA
+---
+
+### 7. Contact Us
+
+If you have any questions or feedback regarding this Privacy Policy or our privacy practices, please contact us at[span_35](start_span)[span_35](end_span):
+
+Jose Duran[span_36](start_span)[span_36](end_span)  
+📧 [Email]([rays-mouse01@icloud.com)[span_37](start_span)[span_37](end_span)  
+🇺🇸 San Jose, CA, USA[span_38](start_span)[span_38](end_span)
