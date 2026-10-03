@@ -94,7 +94,7 @@ TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW:
 
 ### 9. Dispute Resolution & Binding Arbitration
 *(Applies to users located in the United States)*
-- **Informal Review:** Before filing a formal claim, you agree to contact us at luisdurancota@gmail.com to pursue a prompt, good-faith informal resolution.
+- **Informal Review:** Before filing a formal claim, you agree to contact us at [Email](mailto:rays-mouse01@icloud.com) to pursue a prompt, good-faith informal resolution.
 - **Arbitration:** Any unresolved dispute arising out of these Terms or the use of Unloop shall be settled through confidential, individual binding arbitration administered by the American Arbitration Association (AAA), rather than in court.
 - **Class Action Waiver:** All claims must be brought in an individual capacity, and not as a plaintiff or class member in any purported class, consolidated, or representative proceeding.
 
@@ -115,5 +115,5 @@ Because you acquired Unloop from the Apple App Store, you acknowledge that:
 For questions, support, or legal inquiries concerning these Terms of Service, contact:
 
 * **App:** Unloop
-* **Email:** luisdurancota@gmail.com
-* **Developer/Entity:** Luis Duran
+* **Email:** [Email](mailto:rays-mouse01@icloud.com)
+* **Developer/Entity:** Jose Duran
