@@ -68,7 +68,7 @@ We may update this Privacy Policy from time to time to reflect product enhanceme
 
 ### 7. Contact Us
 
-If you have any questions or feedback regarding this Privacy Policy or our privacy practices, please contact us at[span_35](start_span)[span_35](end_span):
+If you have any questions or feedback regarding this Privacy Policy or our privacy practices, please contact us at:
 
 Jose Duran
 📧 [Email](rays-mouse01@icloud.com)
